@@ -13,5 +13,5 @@ Please describe the problem as distinct as possible and try to be objective.
 
 
 
-**Disclamer**
+**Disclaimer**
 >All problems issues are treated as opinions until agree upon
